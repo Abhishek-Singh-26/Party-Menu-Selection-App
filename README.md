@@ -17,6 +17,8 @@ npm start
 # OR using Yarn
 yarn start
 ```
+NOTE: cd ios
+run pod install as prerequisites
 
 ## Step 2: Build and run your app
 
