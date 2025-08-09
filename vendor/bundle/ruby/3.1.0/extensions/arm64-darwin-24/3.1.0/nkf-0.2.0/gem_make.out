@@ -1,0 +1,15 @@
+current directory: /Users/Mohammad.x.Imran1/Desktop/task/PartyMenuApp/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+/Users/Mohammad.x.Imran1/.rbenv/versions/3.1.1/bin/ruby -I /Users/Mohammad.x.Imran1/.rbenv/versions/3.1.1/lib/ruby/3.1.0 -r ./siteconf20250808-2721-6mf7on.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Mohammad.x.Imran1/Desktop/task/PartyMenuApp/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= clean
+
+current directory: /Users/Mohammad.x.Imran1/Desktop/task/PartyMenuApp/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\=
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/Mohammad.x.Imran1/Desktop/task/PartyMenuApp/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250808-2721-tlvj09

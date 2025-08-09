@@ -1,0 +1,4 @@
+/Users/Mohammad.x.Imran1/Desktop/task/PartyMenuApp/android/app/.cxx/Debug/485k2p4z/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/Mohammad.x.Imran1/Desktop/task/PartyMenuApp/android/app/.cxx/Debug/485k2p4z/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/Mohammad.x.Imran1/Desktop/task/PartyMenuApp/android/app/.cxx/Debug/485k2p4z/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/Mohammad.x.Imran1/Desktop/task/PartyMenuApp/android/app/.cxx/Debug/485k2p4z/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
