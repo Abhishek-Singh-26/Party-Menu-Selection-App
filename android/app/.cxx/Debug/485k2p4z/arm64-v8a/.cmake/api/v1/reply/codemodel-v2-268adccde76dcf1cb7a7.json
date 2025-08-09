@@ -1,0 +1,138 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "safeareacontext_autolinked_build",
+					"jsonFile" : "directory-safeareacontext_autolinked_build-Debug-0ba204645c17f2829c04.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/Users/Mohammad.x.Imran1/Desktop/task/PartyMenuApp/node_modules/react-native-safe-area-context/android/src/main/jni",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "rnscreens_autolinked_build",
+					"jsonFile" : "directory-rnscreens_autolinked_build-Debug-86cc2dfea5cf84995bc9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/Users/Mohammad.x.Imran1/Desktop/task/PartyMenuApp/node_modules/react-native-screens/android/src/main/jni",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "RNVectorIconsSpec_autolinked_build",
+					"jsonFile" : "directory-RNVectorIconsSpec_autolinked_build-Debug-674cc8fc66641e24aad7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/Users/Mohammad.x.Imran1/Desktop/task/PartyMenuApp/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "appmodules",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "appmodules::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appmodules-Debug-bb752ab76445448724dc.json",
+					"name" : "appmodules",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d",
+					"jsonFile" : "target-react_codegen_RNVectorIconsSpec-Debug-34ee541a395a2ddf02e1.json",
+					"name" : "react_codegen_RNVectorIconsSpec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "react_codegen_rnscreens::@25bcbd507e98d3a854ad",
+					"jsonFile" : "target-react_codegen_rnscreens-Debug-c85634b5facdde498b16.json",
+					"name" : "react_codegen_rnscreens",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "react_codegen_safeareacontext::@7984cd80db47aa7b952a",
+					"jsonFile" : "target-react_codegen_safeareacontext-Debug-9863ff5638939a4735a8.json",
+					"name" : "react_codegen_safeareacontext",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/Mohammad.x.Imran1/Desktop/task/PartyMenuApp/android/app/.cxx/Debug/485k2p4z/arm64-v8a",
+		"source" : "/Users/Mohammad.x.Imran1/Desktop/task/PartyMenuApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

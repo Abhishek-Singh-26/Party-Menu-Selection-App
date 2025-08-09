@@ -1,0 +1,66 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Bundler / Metro
+.expo/
+.expo-shared/
+*.map
+
+# React Native build outputs
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties    # SDK path - keep local
+*.keystore
+*.jks
+
+ios/Pods/
+ios/build/
+ios/DerivedData/
+ios/*.xcworkspace
+**/*.xcuserstate
+*.xcuserdatad
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj/project.xcworkspace
+*.pbxuser
+project.xcworkspace/
+
+# iOS config files that may contain keys
+GoogleService-Info.plist
+# If you must keep it in repo for your workflow, remove this line and manage security differently
+
+# Environment & secrets
+.env
+.env.*             # .env.local / .env.production etc
+*.p12
+*.mobileprovision
+fastlane/report.xml
+fastlane/Preview.html
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and coverage
+logs/
+*.log
+coverage/
+jest-cache/
+
+# Misc
+tmp/
+.temp/
+*.tgz
